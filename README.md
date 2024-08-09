@@ -1,0 +1,1 @@
+This is a basic C++ project which allows user to register himself/herself and enter his/her details which will be stored in a .txt file and when he/she will login it'll retrieve the data from the file, Basically concept of filehandling has been used in this project.
